@@ -1,0 +1,15 @@
+E:\1279386\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.csproj.AssemblyReference.cache
+E:\1279386\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.csproj.SuggestedBindingRedirects.cache
+E:\1279386\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.csproj.CoreCompileInputs.cache
+E:\1279386\UniversityRepository\UniversityRepository\bin\Debug\UniversityRepository.exe.config
+E:\1279386\UniversityRepository\UniversityRepository\bin\Debug\UniversityRepository.exe
+E:\1279386\UniversityRepository\UniversityRepository\bin\Debug\UniversityRepository.pdb
+E:\1279386\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.exe
+E:\1279386\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.pdb
+C:\Users\admin\Desktop\Projects\UniversityRepository\UniversityRepository\bin\Debug\UniversityRepository.exe.config
+C:\Users\admin\Desktop\Projects\UniversityRepository\UniversityRepository\bin\Debug\UniversityRepository.exe
+C:\Users\admin\Desktop\Projects\UniversityRepository\UniversityRepository\bin\Debug\UniversityRepository.pdb
+C:\Users\admin\Desktop\Projects\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.exe
+C:\Users\admin\Desktop\Projects\UniversityRepository\UniversityRepository\obj\Debug\UniversityRepository.pdb
